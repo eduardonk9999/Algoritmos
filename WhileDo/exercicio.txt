@@ -1,0 +1,7 @@
+Você deverá criar um programa em linguagem C que calcule a média de notas de uma disciplina, de acordo com as notas dos alunos, informadas pelo professor.
+
+Para resolver essa situação, é sugerida uma das possíveis soluções:
+
+criar uma variável para entrada das notas, outra para acumular o valor das notas e outra para contabilizar quantas notas foram informadas;
+após o lançamento de cada nota, solicitar ao usuário que informe se deseja continuar digitando outras notas ou não;
+ao final, calcula-se a média e a apresenta na tela.

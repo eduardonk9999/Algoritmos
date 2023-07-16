@@ -1,0 +1,9 @@
+
+Considere um sistema de compras de passagens aéreas: 
+um cliente quer viajar para um destino em determinado dia e horário; 
+para cada horário de disponibilidade do voo haverá uma quantidade 
+fixa de assentos disponíveis.
+
+Como a aeronave tem uma quantidade fixa de poltronas, pode-se utilizar 
+o comando for, assim, caso as poltronas tenham se esgotado, o usuário 
+não conseguirá comprar a passagem.

@@ -1,0 +1,14 @@
+Após trabalhar com a equipe de nutricionistas e estatísticos, 
+agora é hora de enfrentar um novo desafio com a equipe de matemáticos 
+do laboratório em que atua. 
+
+Foi solicitado a você implementar um programa que calcula se um 
+número é primo ou não, ou seja, se esse número é divisível apenas por 
+1 e por ele mesmo. Dessa forma, você deverá entregar o arquivo compilado 
+para que eles possam utilizá-lo.
+
+Após conhecer sua nova tarefa, seu gerente, que também é programador, 
+pediu para que utilizasse a técnica de 
+recursividade de cauda na implementação, 
+portanto o usuário precisa informar o 
+número que deseja verificar se é primo ou não. 

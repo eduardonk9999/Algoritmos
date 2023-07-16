@@ -1,0 +1,5 @@
+Foi solicitado um programa em linguagem C para transformar o nome digitado 
+dos alunos em letras maiúsculas, assim, caso uma pessoa digite o 
+nome do aluno em letras minúsculas, o programa transformará 
+automaticamente em maiúsculas. Essa é uma prática muito comum 
+no dia a dia do desenvolvimento de software.
