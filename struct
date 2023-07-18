@@ -1,2 +1,15 @@
 Struct => Variavel especial para guardar varios tipos de dados.
 Resumindo uma variavel que armazena valores de tipos diferentes;
+
+Ex:
+#include <stdio.h>
+
+struct automovel {
+  char modelo[20];
+  int ano;
+  float valor;
+};
+
+main() {
+  struct automovel dadosAutomovel1;
+}
