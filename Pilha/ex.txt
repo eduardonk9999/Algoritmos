@@ -1,0 +1,3 @@
+Você recebeu a missão, de uma empresa desenvolvedora de jogos digitais, para escrever um programa que verifica se o arquivo com os dados de um jogador está correto ou não, quanto ao uso dos símbolos de agrupamentos, tais como {, [, ], }. Uma pilha pode ser convenientemente utilizada para resolver esse problema.
+
+Um exemplo de algoritmo capaz de avaliar uma expressão com os símbolos de agrupamento (), {} e [] e retornar “true” se ela é válida e “false” se é inválida
