@@ -1,0 +1,12 @@
+Você foi encarregado de resolver um problema em seu novo emprego, que consiste em criar um programa para descobrir 
+quantos clientes de uma agência bancária teriam que esperar mais do que 20 minutos na fila do banco, contrariando, 
+assim, a nova legislação brasileira. 
+
+Para isso, você tem como informações a quantidade de clientes e, para cada cliente, o momento que ele entrou na fila
+o tempo necessário para seu atendimento.
+
+Para resolver esse problema, vamos iniciar lendo o número de clientes que entraram na agência. Logo depois, você pode
+ adicionar suas informações, uma a uma, em duas filas. 
+
+Na primeira fila, armazenaremos o tempo em que o cliente entrou na fila. Na segunda, 
+será armazenado o tempo necessário para seu atendimento.
